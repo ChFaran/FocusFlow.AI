@@ -1,0 +1,2 @@
+!pip install -q gradio sentence-transformers PyMuPDF Pillow groq pytesseract fpdf
+!apt-get install -y tesseract-ocr
